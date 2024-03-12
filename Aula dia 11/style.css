@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 50px;
+}
+
+table {
+    width: 500px;
+    border-collapse: collapse;
+    margin-bottom: 30px;
+}
+
+th, td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #57198a49;
+}
+
+.vermelho{
+    background-color: red;
+}
+
+.amarelo{
+    background-color: yellow;
+}
+
+.azul{
+    background-color: blue;
+}
